@@ -19,6 +19,6 @@
 </script>
 </head>
 <body>
-아이고야 큰일낫노~~
+ㅠㅠ하이
 </body>
 </html>
