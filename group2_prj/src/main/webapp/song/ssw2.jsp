@@ -21,6 +21,7 @@
 
 </head>
 <body>
-도우너 어서오고.
+도우너 어서오고.<br>
+<img src = "http://localhost/group2_prj/common/images/img.jpg"/>
 </body>
 </html>
